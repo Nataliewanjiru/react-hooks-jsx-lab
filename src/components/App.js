@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Home  name="Natty" city="Nairobi"/>
+      <Home  name="Name" city="City"/>
       <About />
     </div>
   );
